@@ -66,7 +66,11 @@
     si esto ocurre por error esta es la soluccion git no pierde nada
     git reflog => vemostodos los commit cada una de staos hast son todas la modificaicones
     git reset --hard "hash" => regresar el commit donde nos intersa y se reconstruye todo el proyecto
+    git reset --hard es paracido git checkout -- .
 
 
 
-## Cambiar el nombre  y eliminar archivo
+## git mv, Cambiar el nombre  y eliminar archivo mediante git
+    git mv "nombredelarchivoactual" "nombrenuevo" =>Cambio de nombre    y nos aparece una R, realizando git status tenemos el rename
+    ya esta el cambio ahora realizamos un git commit -m "comentario"
+    git rm nombredelarchivo=> Eliminar archivo aun si hacemos un git status todavia aparece esta en el staged y realizamos un commit
