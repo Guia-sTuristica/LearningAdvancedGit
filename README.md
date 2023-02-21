@@ -53,7 +53,20 @@
     cuanto viene en "+" son los que estan pendiente de añadir, si lo agregan no va aparecer la diferencia por que esta agregado
     esta comparando los cambios que no esta en el staged
     git diff --staged =>
-## Actualizar mensaje del commit y revertir commits
+## Actualizar mensaje del commit y revertir commits, git reset 
     git commit --amend -m "Mensaje actualizado" => esto se cambia para el ultimo commit
+    git commit --amend=> podemos hacer muchos cambios y podemos cambiar el texto del commit
     git reset --soft HEAD^ "Mensaje actualizado" => Modficacion que sea parte del ultimo commit, podemos poner commit anteriore
-    "HEAD^4", podemo ver el commit git log y vemo que el ultimo comit no esta y podemos añadir los datos que si queremos 
+    "HEAD^4", podemo ver el commit git log y vemo que el ultimo comit no esta y podemos añadir los datos que si queremos, hay que tener 
+    cuidado mejor que hagan el amend para modficar 
+    git reset --soft "hash del git" => vemos lamodficiacion que hay lo sacaquemos del staged y modemos hacer el nuevo commit y almacenar los cambios
+    git reset --mixed "hash del git"=>saca todo del staged y locambios listo para volver añadir, nos aparece U untrack, no teenomos los comit subsiguientes
+    si pone git reset -- => seria mixed por defecto
+    git reset --hard "hash" => es destructivo va dejar como estaba antes del punto y acide sucesivamente 
+    si esto ocurre por error esta es la soluccion git no pierde nada
+    git reflog => vemostodos los commit cada una de staos hast son todas la modificaicones
+    git reset --hard "hash" => regresar el commit donde nos intersa y se reconstruye todo el proyecto
+
+
+
+## Cambiar el nombre  y eliminar archivo
