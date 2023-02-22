@@ -74,3 +74,14 @@
     git mv "nombredelarchivoactual" "nombrenuevo" =>Cambio de nombre    y nos aparece una R, realizando git status tenemos el rename
     ya esta el cambio ahora realizamos un git commit -m "comentario"
     git rm nombredelarchivo=> Eliminar archivo aun si hacemos un git status todavia aparece esta en el staged y realizamos un commit
+
+## git mv, Cambiar el nombre  y eliminar archivo fuera de git
+    cuando cambiamos el nombre de un archivo fuera de git (fuera de los comando por consola), git no le dara seguimiento de este archivo
+    aparece un U, para git se creo un nuevo archivo el anterio desaperecio vemos informacion de un git status
+    D historia/superman.historia.md => tengo una eliminado de un archivo es peligroso si tenemos informacion es importante por que perdemos 
+    todas las historias de cambios de este archivo
+    ?? historia/superman.md => nuevo archivo
+    podemos dar un git add . => y nos informacion que el archivo original lo tiene el nuevo archivo d enombre cambiado solo si aparece una R
+    si hacemos un git reset --hard "hash" nos recuperar el ultimo cambio de nombre
+    Eliminamos un archivo  => se elimina el archivo
+

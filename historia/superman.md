@@ -1,3 +1,4 @@
+# Superman
 Superman (en español: Superhombre) es un superhéroe ficticio que apareció por primera vez en los cómics estadounidenses publicados por DC Comics.1​2​3​4​El personaje fue creado por el escritor estadounidense Jerry Siegel y el artista canadiense Joe Shuster en 1933 cuando ambos se encontraban viviendo en Cleveland, Ohio.
 
 Sus creadores lo vendieron a Detective Comics, Inc. en 1938 por 130 dólares5​ y la primera aventura del personaje fue publicada en Action Comics #1 (junio de 1938), para luego aparecer en varios seriales de radio, programas de televisión, películas, tiras periódicas y videojuegos. Con el éxito de sus aventuras, este personaje definió al superhéroe y estableció su primacía dentro del cómic estadounidense.1​ Su apariencia del personaje es distintiva y se volvió icónica: un traje azul y rojo, con una capa y un emblema con una letra “S” estilizada en su pecho,6​7​8​ el cual se ha convertido en un símbolo del personaje.9​
