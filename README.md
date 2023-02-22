@@ -67,6 +67,7 @@
     git reflog => vemostodos los commit cada una de staos hast son todas la modificaicones
     git reset --hard "hash" => regresar el commit donde nos intersa y se reconstruye todo el proyecto
     git reset --hard es paracido git checkout -- .
+    gut restore --stage file => sacerlo eliminado del stage
 
 
 
@@ -85,3 +86,14 @@
     si hacemos un git reset --hard "hash" nos recuperar el ultimo cambio de nombre
     Eliminamos un archivo  => se elimina el archivo
 
+## Ignorando arhivo que nos deseamos
+    .gitignore => esta en la raiz del proyecto especifiamos los directorio que no le de seguimiento
+
+## Ramas Uniones Merge y Conflictos
+    las ramas nos ayudan si queremos poner nuevas funcionalidas o puede ser descartado es una linea de tiempo aparte
+    Merge => 3 posibles escenearios fast-foward, qu se dispara cuando git detecta cuando en la rama principal no hay cambios
+    Uniones automaticas => git detecta que en la rama principal, que la rama secunda desconece, git detecta si no hay conflictos y lo agrega 
+    Merge Manual => git no puede resolver de forma automatica y lo hace manual y cuando resuelva ese conflicto git crea un commit nuevo
+
+### MERGE FAST-FORWARD
+    
