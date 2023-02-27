@@ -4,3 +4,4 @@ Apolo (Apollo en inglés) es un personaje ficticio, un dios dentro de universo d
 Es un personaje diferente a Apolo, el superhéroe arquetipo de Superman conocido por las historias de Stormwatch y The Authority. Aunque solo comparten el nombre ambos personajes son homosexuales. En la historia Midnighter and Apollo ambos personajes se encuentran, y, en esta historia se presenta a Jacinto quien es el amante del dios Apolo,1​ siendo similar a la mitología griega.
 
 flash reverso
+Doomsday

@@ -98,5 +98,18 @@
 ### MERGE FAST-FORWARD
     git branch "nombre de rama" =>crea una nueva rama cuando 
     git branch => nos indica la rama donde estamos 
-    gti checkout "nombre de rama" => se mueve a la rama indicada    
-    git
+    git checkout "nombre de rama" => se mueve a la rama indicada    
+    git merge 
+       Para unir la ramas tenemos que estar parado en la rama para traaer los cambios de la otra rama en este caso
+        git branch main luego => git merge y se ejecuta Fast-forward
+        git logro identificar todos los cambios
+        
+        apunta a la rama main y villanos
+             villanos.md  Flash reverso - RobertFox (HEAD -> main, rama-villanos)
+        La rama existira aun
+        es conveniento que  la borremos
+        git branch -d rama-villanos
+        git branch -d rama-villanos -f => de maneraa forzada eliminamos la rama por que los commit no se van a pasar a la rama principal
+
+### MERGE AUTOMATICAS
+    git checkout -b rama-villanos => crea la rama y nos movemos a la rama
