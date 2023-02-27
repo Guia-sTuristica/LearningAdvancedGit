@@ -113,3 +113,10 @@
 
 ### MERGE AUTOMATICAS
     git checkout -b rama-villanos => crea la rama y nos movemos a la rama
+        realiamoz modificacion de la bio de superman ahora comiteamos, estos commit se encuentra en la rrama villanos
+    y no forma de la rama main
+    * 7c61b5b - (39 seconds ago) Borramos datos que no necesitamos de superman - RobertFox (HEAD -> main)
+    | * cf1141b - (5 minutes ago) Notas en villanos - RobertFox (rama-villanos)
+    | * e47f613 - (5 minutes ago) agregamos a doomsday - RobertFox
+    |/
+    unimos la rama al master tenemos que estar en l rama en la cual espera los cambios de otra rama 
