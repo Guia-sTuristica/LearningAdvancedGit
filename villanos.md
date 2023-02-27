@@ -6,10 +6,6 @@ Es un personaje diferente a Apolo, el superhéroe arquetipo de Superman conocido
 flash reverso
 Doomsday2
 
-<<<<<<< HEAD
 # notas Buscamos nuevos miembreos para los villanos
 
 # buscar comida para ellos
-=======
-# notas nuevo miembros que sean villanos
->>>>>>> rama-conflicto

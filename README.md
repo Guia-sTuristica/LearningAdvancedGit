@@ -125,3 +125,16 @@
     Cuando git no puede hacar de manera automatica el fast-forward y se han hecho modificacion en la misma linea
     menseaje de conflicto=>CONFLICT (content): Merge conflict
     nos indica que ha aparecido un conflicto y hay que comitear el resultado 
+    tenemos que elegir que cambio necesitamos 
+    al puls git s vemos que tnemo UU y tenemos que resolver este conflicto con git commit -am ""
+    una vez comiteado resolvemos este conflicto
+
+## TAGS , etiquetas
+     Son usados para marcar versiones referencia de un commite a un estado el proyecto en ese punto especificos o realese o aplicativo de nuestro programas puede ser palabras o numeros
+    git tag nombredeltag ?> creamos un tag
+    git tag -d nombredeltag ?> elimina el tag
+    git tag -a v1.0.0  -m "version 1.0.0 lista" => creamos la version crea el tag del ulti mo commit
+        v1=> version mayor cambios de version , 0 => version menor cierta funcionalidad => 0 => tipo de bug que tiene que ser resuelte
+
+    como poner un tag a un commit especifico => git tag -a v0.1.0 hashquequermosdelcommit -m "Version alpha, 
+    git show v0.1.0 => si queremos ver mas informacion de un tag en especifico
