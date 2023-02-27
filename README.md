@@ -120,3 +120,6 @@
     | * e47f613 - (5 minutes ago) agregamos a doomsday - RobertFox
     |/
     unimos la rama al master tenemos que estar en l rama en la cual espera los cambios de otra rama 
+
+### MERGE: uniones con conflictos
+    Cuando git no puede hacar de manera automatica el fast-forward y se han hecho modificacion en la misma linea

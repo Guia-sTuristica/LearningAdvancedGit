@@ -6,4 +6,4 @@ Es un personaje diferente a Apolo, el superhéroe arquetipo de Superman conocido
 flash reverso
 Doomsday2
 
-# notas2
+# notas nuevo miembros que sean villanos
