@@ -11,4 +11,4 @@ Desde el debut de Superman han transcurrido siete décadas, durante las cuales e
 
 Superman ha resultado fascinante para los académicos y tanto tesistas culturales como comentaristas y críticos han explorado el impacto del personaje y su rol en los Estados Unidos y en el resto del mundo. Umberto Eco discutió las cualidades mitológicas del personaje a inicios de los años 1960 y Larry Niven escribió sobre las características de una hipotética relación sexual entre el personaje y Lois Lane.12​
 
-La propiedad del personaje ha sido frecuentemente un objeto de disputa; Siegel y Shuster entablaron demandas en dos ocasiones para recuperar su posesión legal. Los derechos del personaje se encuentran de nuevo en discusión, debido a que los cambios a la ley de derechos de reproducción les permitieron a la esposa y a la hija de Siegel alegar por una parte de los derechos, algo que la compañía dueña de DC, Warner Bros., disputa.
+
