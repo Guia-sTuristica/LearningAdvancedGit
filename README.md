@@ -96,4 +96,7 @@
     Merge Manual => git no puede resolver de forma automatica y lo hace manual y cuando resuelva ese conflicto git crea un commit nuevo
 
 ### MERGE FAST-FORWARD
-    
+    git branch "nombre de rama" =>crea una nueva rama cuando 
+    git branch => nos indica la rama donde estamos 
+    gti checkout "nombre de rama" => se mueve a la rama indicada    
+    git
