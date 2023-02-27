@@ -9,6 +9,6 @@ DC Comics/Warner Bros. expandió lentamente el reparto de personajes secundarios
 
 Desde el debut de Superman han transcurrido siete décadas, durante las cuales el personaje ha sido recreado y renovado en múltiples ocasiones. Una modificación mayor y significativa ocurrió en 1986, cuando el autor John Byrne modernizó y realizó un masivo retcon al personaje, reduciendo los poderes de Superman y eliminando varios personajes del canon, en una estrategia que atrajo mucha atención de los medios. Volvió a aparecer en la prensa en la década de 1990, cuando DC Comics publicó La muerte de Superman, una historia en la que el personaje falleció y luego revivió.
 
-Superman ha resultado fascinante para los académicos y tanto tesistas culturales como comentaristas y críticos han explorado el impacto del personaje y su rol en los Estados Unidos y en el resto del mundo. Umberto Eco discutió las cualidades mitológicas del personaje a inicios de los años 1960 y Larry Niven escribió sobre las características de una hipotética relación sexual entre el personaje y Lois Lane.12​
+Superman ha resultado fascinante para los académicos y tanto tesistas culturales como comentaristas y críticos han explorado el impacto del personaje y su rol en los Estados Unidos y en el resto del mundo. Umberto Eco discutió las cualidades mitológicas del personaje a inicios de los años 1960 y Larry Niven escribió sobre las características de una hipotética relación sexual entre el personaje y Lois Lane.
 
 
