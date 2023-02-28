@@ -138,3 +138,15 @@
 
     como poner un tag a un commit especifico => git tag -a v0.1.0 hashquequermosdelcommit -m "Version alpha, 
     git show v0.1.0 => si queremos ver mas informacion de un tag en especifico
+
+## STASH 
+     el proceso que toma el estado desordenado de nuestro directorio de trabajo y lo almacena en una pila de cambios incompletos que podemos volver a aplicar más adelante. Podemos crear, actualizar o eliminar los cambios temporales personalizados
+     Si queremos guardar nuestro trabajo incompleto sin comprometerlos, usaremos el comando=> git stash
+     git stash list
+        muestra todos los stats
+
+    git stash pop
+    podemos restablecer los cambios guardados simplemente usando el siguiente comando:
+    si queremos ver nuestro git log 
+    nos muestra todos los commits pero no muestra el statsh porque ya lo tengo volcado
+    y podemos hacer nuestro commit
