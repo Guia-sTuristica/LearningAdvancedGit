@@ -138,14 +138,3 @@
 
     como poner un tag a un commit especifico => git tag -a v0.1.0 hashquequermosdelcommit -m "Version alpha, 
     git show v0.1.0 => si queremos ver mas informacion de un tag en especifico
-
-## STASH y REBASE
-    Es un trabajo que todavia no quiere que impacte algun commit es un lugar o boveda seguro git puede que no le de seguimiento
-    al hacer un stash regresamos al ultimo punto que estamo en nuestro head, no es recomendable tener muchos stash  
-    git stash => con los cambios ya realizado pero aun no estan terminado es importante
-    nos da este mensaje
-    Saved working directory and index state WIP on main: dbd4284 doc tag2
-    git stash list => podemos ver los stash que tenemos
-
-    REBASE => unir commits separar commits squash renombrar el nombre de los commits, solo recomendable si no ha impactodo el 
-    repositorio externo
