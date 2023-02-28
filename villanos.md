@@ -7,5 +7,5 @@ flash reverso
 Doomsday2
 
 # notas Buscamos nuevos miembreos para los villanos
-
+anotamos un nuevo villano
 # buscar comida para ellos
