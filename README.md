@@ -146,7 +146,7 @@
         muestra todos los stats
 
     git stash pop
-    podemos restablecer los cambios guardados simplemente usando el siguiente comando:
+    podemos restablecer los cambios guardados y borra el stash simplemente usando el siguiente comando:
     si queremos ver nuestro git log 
     nos muestra todos los commits pero no muestra el statsh porque ya lo tengo volcado
     y podemos hacer nuestro commit
