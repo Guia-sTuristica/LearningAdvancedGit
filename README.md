@@ -150,3 +150,4 @@
     si queremos ver nuestro git log 
     nos muestra todos los commits pero no muestra el statsh porque ya lo tengo volcado
     y podemos hacer nuestro commit
+    Si queremos mantener esos cambios en el alijo, en lugar de usar git stash pop, usaremos git stash apply
