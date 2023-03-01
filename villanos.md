@@ -10,4 +10,5 @@ Doomsday2
 anotamos un nuevo villano
 loki2
 Harley queen
+Superman Malvado
 # buscar comida para ellos
