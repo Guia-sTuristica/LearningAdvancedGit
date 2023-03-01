@@ -161,3 +161,9 @@
     stash@{0} => el ultimio que se añadio en el stah
     recuperar el stash respectivo
     git stash apply stash@{2}
+
+## REBASE
+    Sirve para ordenar commits
+    corregir commits
+    unir commits
+    separar commits
