@@ -149,12 +149,9 @@
     si queremos ver nuestro git log 
     nos muestra todos los commits pero no muestra el stash porque ya lo tengo volcado
     y podemos hacer nuestro commit
-<<<<<<< Updated upstream
     Si queremos mantener esos cambios en el alijo, en lugar de usar git stash pop
-=======
     borrando el git stash => git stash clear
     Si queremos mantener esos cambios en el alijo, en lugar de usar git stash pop, usaremos git stash apply
->>>>>>> Stashed changes
     y podemos hacer nuestro commit y el stash ya desaparece
     toda la informacion que tenemos los stash => git stash list --stat
      gitsi ya no necesitamos ese alijo que realizamos, lo eliminamos con el siguiente comando especificado con la identificación del alijo, y lo eliminará del área de almacenamiento. El comando para eliminar el alijo en particular es el siguiente:
