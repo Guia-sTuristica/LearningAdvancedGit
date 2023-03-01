@@ -152,3 +152,4 @@
     y podemos hacer nuestro commit
     Si queremos mantener esos cambios en el alijo, en lugar de usar git stash pop, usaremos git stash apply
     y podemos hacer nuestro commit y el stash ya desaparece
+    toda la informacion que tenemos los stash => git stash list --stat
