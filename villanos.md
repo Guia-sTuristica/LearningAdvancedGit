@@ -8,4 +8,5 @@ Doomsday2
 
 # notas Buscamos nuevos miembreos para los villanos
 anotamos un nuevo villano
+loki2
 # buscar comida para ellos

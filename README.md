@@ -144,12 +144,15 @@
      Si queremos guardar nuestro trabajo incompleto sin comprometerlos, usaremos el comando=> git stash
      git stash list
         muestra todos los stats
-
     git stash pop
     podemos restablecer los cambios guardados y borra el stash simplemente usando el siguiente comando:
     si queremos ver nuestro git log 
-    nos muestra todos los commits pero no muestra el statsh porque ya lo tengo volcado
+    nos muestra todos los commits pero no muestra el stash porque ya lo tengo volcado
     y podemos hacer nuestro commit
     Si queremos mantener esos cambios en el alijo, en lugar de usar git stash pop, usaremos git stash apply
     y podemos hacer nuestro commit y el stash ya desaparece
     toda la informacion que tenemos los stash => git stash list --stat
+     gitsi ya no necesitamos ese alijo que realizamos, lo eliminamos con el siguiente comando especificado con la identificación del alijo, y lo eliminará del área de almacenamiento. El comando para eliminar el alijo en particular es el siguiente:
+    => git stash drop <stash_id>
+    ver informacion de un stash => git stash show <stash_id>
+    git stash save "nombre del stash" => guardamos un stash con un nombre
