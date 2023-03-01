@@ -7,8 +7,12 @@ flash reverso
 Doomsday2
 
 # notas Buscamos nuevos miembreos para los villanos
+<<<<<<< Updated upstream
 anotamos un nuevo villano
 loki2
 Harley queen
 Superman Malvado
+=======
+    loki
+>>>>>>> Stashed changes
 # buscar comida para ellos
