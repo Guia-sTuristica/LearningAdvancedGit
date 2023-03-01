@@ -167,3 +167,25 @@
     corregir commits
     unir commits
     separar commits
+    debes estar en la rama secundaria q
+    git rebase main=> loq ue realizara que los commit que tnemos en la rama secundaria se posicionara en los ultimos
+    sin perderse ningun cambio
+    lugo podemos situarnos en la rama main realizamos un merge y nos dara un fast forward
+### REBASE SQUASH
+    el rebase iteractiva consejo debe ser en el local, aun cuando no se hace push 
+    git rebase -i HEAD => hace referencia al ultimo commit 
+    git rebase -i HEAD~2 => hace referencia la cantidade commit que nos puede interesar
+        squash => es tomar dos cosas y se fucionen juntas una ves dentro viendo los commit que necesitamos por el rebase
+            utilizamos "s" hashid  y el anterio ponemos "p" quitando los valore que se llaman pick
+            luego nos movera otra pantalla nos dira que un commit de dos comits y nos informa si quermeos que se llama el nombre
+            de commit que nos interesa y guardamos
+            example llegara haci=> git rebase -i HEAD~2:
+            pick 0962319 añadiendo informacion de rebase
+            pick 0631cab info rebase
+            solucion cogemos solo dos la p y s
+            p 0962319 añadiendo informacion de rebase
+            s b5d840f info rebase
+    debes estar en la rama secundaria 
+    git rebase main=> loq ue realizara que los commit que tnemos en la rama secundaria se posicionara en los ultimos
+    sin perderse ningun cambio
+    lugo podemos situarnos en la rama main realizamos un merge y nos dara un fast forward
