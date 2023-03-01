@@ -9,4 +9,5 @@ Doomsday2
 # notas Buscamos nuevos miembreos para los villanos
 anotamos un nuevo villano
 loki2
+Harley queen
 # buscar comida para ellos
