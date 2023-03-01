@@ -167,3 +167,7 @@
     corregir commits
     unir commits
     separar commits
+    debes estar en la rama secundaria 
+    git rebase main=> loq ue realizara que los commit que tnemos en la rama secundaria se posicionara en los ultimos
+    sin perderse ningun cambio
+    lugo podemos situarnos en la rama main realizamos un merge y nos dara un fast forward
