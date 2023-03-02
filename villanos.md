@@ -11,5 +11,6 @@ anotamos un nuevo villano
 loki2
 Harley queen
 Superman Malvado
-    loki
+Loki
+DeadShot
 # buscar comida para ellos
