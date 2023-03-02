@@ -4,3 +4,4 @@
 3. Buscar nuevos miembros de la familia
 4. mision de rebase
 5. mision de rebase squash
+6. investigar rebase edit
