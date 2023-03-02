@@ -189,3 +189,38 @@
     git rebase main=> loq ue realizara que los commit que tnemos en la rama secundaria se posicionara en los ultimos
     sin perderse ningun cambio
     lugo podemos situarnos en la rama main realizamos un merge y nos dara un fast forward
+
+## REBASE REWORD
+    Actualiza los nombres de los commits que queremaos entramos a al rebase interactivo y cogemos los ultimos
+	git rebase -i HEAD~2
+	example añadimos la r
+	r 0962319 añadiendo informacion de rebase
+	r a5c3203 info rebase
+
+	luego nos muestra una pantalla en la cual podmeos cambiar el nombre del commit y lo cambiamos
+
+## REBASE EDIT
+    podemos hacer commit diferentes por archivos
+    revertir los cambios solo por archivos
+	git checkout -- README.md
+
+   si hacemos commit de dos archivo y nos damos cuenta que queremos separar los archivo 
+    por distintos commit hacemos lo siguiente
+    puede ser un rebase iteractivo mostranod la cantidad de commit
+    git rebase -i HEAD~3
+    Ppoenemos el caracte e o edit
+
+    nos muestra una un rebase manual
+    git status, nos muestra ahora un rebase iterativo
+    hacemos un git reset del ultimo commit => git reset HEAD^
+    nos baja del stage de los dos archivo modificacods
+    ahora si podemos añadir el archivo que queramos
+    git add  nombre de arhivo
+    hacemos el commit
+
+    y luego agregamos el archiov que queremos 
+
+    hacer un git lg vemos que el main esta debajo del git head
+    por que aun estamos en el rebase iteractivo
+    ejecutamos para que termine el rebase iteractivo => git rebase  --continue 
+    
