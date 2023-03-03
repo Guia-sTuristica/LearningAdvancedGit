@@ -22,6 +22,10 @@
     git log --oneline => nos muestra la forma corta del commit
     git log --oneline --decorate --all --graph =>
     git config core.autocrlf true => es básicamente una interpretación de un carácter.
+    si vemos en nuestra cabecera => (HEAD -> main) es nuestro local
+    (origin/main) => es nustro repositorio remoto puede de estar adelante o atras
+    (origin/main) si esta atras y nuestro (Head -> main) adeltnte nostros estamos adelantado
+    si fuera alrevez nuestro repositorio esta adelanto y nuestro local atrasado
 
 ## GIT Recuperar cambios
     cuando no se puede realizar ctrl + z
