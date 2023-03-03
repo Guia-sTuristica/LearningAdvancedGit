@@ -266,8 +266,24 @@
 
 
 ## GIT PUSH [REJECTED]
-    cuando el push da fallo	
-    error: failed to push some refs to Error
+     cuando el push da fallo	
+	nos dice que fue rechazado porque hay una referencia este repositotiro remoto que no tenemos
+	de manera local	.
+	nos pide que hagamos git pull antes de hacer pushing
+
+    ! [rejected]        main -> main (fetch first)
+    error: failed to push some refs to 'https://github.com/robertfox11/LearningAdvancedGit.git'
+    hint: Updates were rejected because the remote contains work that you do
+    hint: not have locally. This is usually caused by another repository pushing
+    hint: to the same ref. You may want to first integrate the remote changes
+    hint: (e.g., 'git pull ...') before pushing again.
+    hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+	hacemos un git pull
+
+	si hay conflictos, lo solucionamos y vemos que podemos elegitr una vez elegido
+	realizamos un commit 
+	realizamo ahora un push 
     
 ## INTERFAZ DE GIT HUB
   Podemos tomar todo el proyecto con FORK => 	HACE UNA COPIA O CLONE COMPLETO A MI CUENTA DE GITHUB
@@ -281,6 +297,5 @@
   Projects => manejar projecto suficientemente maduro para salir a produccion
   Wiki => propia documentacion del proyecto documentacion oficial para que puedan ver el usuario final
   Security => cuantas personas puede utilizar el proyecto de securit
-  Insights => ayuda a la gente para saber cuanto esta trabajando en el proyecto, ver muchas estadisticas de commits la frecuencia comunidad
-  	cuantas veces sea push 
+  Insights => ayuda a la gente para saber cuanto esta trabajando en el proyecto, ver muchas estadisticas de commits la frecuencia   comunidad cuantas veces sea push 
   
