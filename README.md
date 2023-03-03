@@ -244,3 +244,27 @@
   `
   git config --global pull.ff only => lo usamos
   comprobacion del commit
+
+## GIT PULL REBASE
+   git config pull.rebase true => es una configuracion de manera global cuando tenemos 
+	conflicto y podemos resolverlo
+   al hacer un git pull nos indica que estamos en un git pull rebase
+   si hacemos un git branch
+   si nos encontramos con estamos en medio de un rebase tenemos que terminarlo antes 
+	 de hacer cualquier tipo de trabajo
+   *(no branch, rabasing main)
+   si hay conflicto elegimos y guardamos los cambios
+	hacemos un nuevo commit
+	realizamos un git status vamos a ver estamose n un git rebase interactivo
+	vemos que ya lo tenemos en el stage con el commit realizad
+	git commit --amed => podemos abortar los cambios
+	git rebase  --continue => se actualiza de manera exitosa
+	realizamos hasta git push => se hace la uniont
+
+	hacemos git pull si da un erro realizar un nuevo commit
+
+
+
+## GIT PUSH [REJECTED]
+    cuando el push da fallo	
+    error: failed to push some refs to Error
