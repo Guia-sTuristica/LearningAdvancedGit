@@ -223,4 +223,14 @@
     hacer un git lg vemos que el main esta debajo del git head
     por que aun estamos en el rebase iteractivo
     ejecutamos para que termine el rebase iteractivo => git rebase  --continue 
-    
+## PUSH TAGS
+    subir los tags => git push --tags
+    releases y tagas=> diferencia 
+
+## WARNING -PULLING WITHOUT  RECONCILE STRATEGY
+  `Nos indica que estrategia va aplicar a la hora de unir nuestro repositorios en remoto y local 
+  git config --global pull.rebase false solo usa el # merge
+  vgit config --global pull.rebase true solo usa el # rebase
+  git config --global pull.ff only solo usa el # fast-forward only, normalmente se usa 
+  `
+  git config --global pull.ff only => lo usamos
