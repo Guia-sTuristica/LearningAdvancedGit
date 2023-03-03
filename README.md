@@ -240,3 +240,4 @@
   git config --global pull.ff only solo usa el # fast-forward only, normalmente se usa 
   `
   git config --global pull.ff only => lo usamos
+  comprobacion del commit
