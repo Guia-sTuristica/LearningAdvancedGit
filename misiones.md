@@ -5,3 +5,4 @@
 4. mision de rebase
 5. mision de rebase squash
 6. investigar rebase edit
+7. Conflictos con git push 
