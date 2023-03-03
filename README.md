@@ -50,7 +50,8 @@
 ## Alias
     git config --global alias.s "status --short"  => va hacer un status  --short ejecutamos git s
     creamos un alias de git log
-    git config --global alias.lg "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+    `git config --global alias.lg "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset)
+    - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"`
 
 ## Comprobacion como estaba antes y como esta ahora
     git diff=> diff --git a/README.md b/README.md, nos indica con el que es la version anterior y b es la version actual
