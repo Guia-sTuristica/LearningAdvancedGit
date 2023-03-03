@@ -226,6 +226,8 @@
 ## PUSH TAGS
     subir los tags => git push --tags
     releases y tagas=> diferencia 
+    git push -u origin => cuando hacemos otra vez git push ya no no es necesario por que
+    lo estamos guardando
 
 ## WARNING -PULLING WITHOUT  RECONCILE STRATEGY
   `Nos indica que estrategia va aplicar a la hora de unir nuestro repositorios en remoto y local 
