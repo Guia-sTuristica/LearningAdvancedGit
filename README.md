@@ -268,3 +268,19 @@
 ## GIT PUSH [REJECTED]
     cuando el push da fallo	
     error: failed to push some refs to Error
+    
+## INTERFAZ DE GIT HUB
+  Podemos tomar todo el proyecto con FORK => 	HACE UNA COPIA O CLONE COMPLETO A MI CUENTA DE GITHUB
+  LA estrella  => se marca de favorito
+  pestaña de watch => pendiente de novedades y commit nuevo a al repositorio que estamos viendo o seguimiento d eun proyecto 
+  Code=> tenemos el codigo
+  en el branch=> vemos las versiones  o ramas creada que se utilizar en react
+  issues => Es problemas o sugerencia cualquier pregunta que podemos realizar
+  Pullrequest => revisa el codigo cambio de un repositorio que no nos pertenece	
+  Actions=> cuando algo sucede en el repositorio puede de ser un deploy proceso automaticas mediantes acciones procesos automaticos
+  Projects => manejar projecto suficientemente maduro para salir a produccion
+  Wiki => propia documentacion del proyecto documentacion oficial para que puedan ver el usuario final
+  Security => cuantas personas puede utilizar el proyecto de securit
+  Insights => ayuda a la gente para saber cuanto esta trabajando en el proyecto, ver muchas estadisticas de commits la frecuencia comunidad
+  	cuantas veces sea push 
+  
