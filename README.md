@@ -299,3 +299,4 @@
   Security => cuantas personas puede utilizar el proyecto de securit
   Insights => ayuda a la gente para saber cuanto esta trabajando en el proyecto, ver muchas estadisticas de commits la frecuencia   comunidad cuantas veces sea push 
   
+  
