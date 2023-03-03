@@ -230,8 +230,12 @@
 ## PUSH TAGS
     subir los tags => git push --tags
     releases y tagas=> diferencia 
+<<<<<<< HEAD
     git push -u origin => cuando hacemos otra vez git push ya no no es necesario por que
     lo estamos guardando
+=======
+    git remote -v => nos indica el origen del git
+>>>>>>> 2fcfa01 (info de log origin/main => repositorio HEAD ->main => local)
 
 ## WARNING -PULLING WITHOUT  RECONCILE STRATEGY
   `Nos indica que estrategia va aplicar a la hora de unir nuestro repositorios en remoto y local 
