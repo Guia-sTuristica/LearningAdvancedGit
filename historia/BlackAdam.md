@@ -1,0 +1,2 @@
+# Black Adam
+Black Adam, real name Teth/Theo-Adam, is an antihero appearing in American comic books published by DC Comics. He was created by Otto Binder and C. C. Beck, and first appeared in the debut issue of Fawcett Comics' The Marvel Family comic book in December 1945. Since DC Comics licensed and acquired Fawcett's characters in the 1970s, Black Adam has endured as one of the archenemies of the superhero Captain Marvel / Shazam and the Marvel Family (a.k.a. Shazam Family), alongside Doctor Sivana and Mister Mind
