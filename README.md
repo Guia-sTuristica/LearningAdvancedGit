@@ -298,5 +298,29 @@
   Wiki => propia documentacion del proyecto documentacion oficial para que puedan ver el usuario final
   Security => cuantas personas puede utilizar el proyecto de securit
   Insights => ayuda a la gente para saber cuanto esta trabajando en el proyecto, ver muchas estadisticas de commits la frecuencia   comunidad cuantas veces sea push 
-  
+
+## **ISSUES**  
+    Creacion de preguntas 
+    Creacion de vesrion checkeado
+    - [x] v1
+    - [ ] v2
+   **_Buscando un archivo Github_**
+   en la funcionalidad **GoToFile** => busca archivos , tambien e **GoToLine** va a la linea del archivo
+   **Copy path** => copia el path del archivo ("ruta")
+   **Copy permalink** => llegamos ala version archivo en este punto del tiempo
+
+## Raw, blames, history
+    raw => nos muestra el archivo de texto
+    Blame => nos dice los cambio que ha sufrido desde la creacion y quien lo ha modificado
+    history => nos muestra el historial
+## **Creando un nuevo archivo en Git hub**
+    pull request=> es una rama que se desprendio en un punto del tiempo de la rama principal
+    para unir la rama, nos sirve hacer un analisis previo antes de hacer un merge, tiene que ser revisada por 
+    alguien antes de unirla al main, tiene que cumplir el standard de calidad antes de hacer el merge
+    creamos un nuevo archivo y proponer un nuevo archivo, dice proponer por que puede ser rechazada
+    una vez que hemos puesto nuestro comentario damos al boton pullrequest
+    podemos comentar o puede comentar el que tiene mas conocimiento del proyecto pude recharzar o tambien comentar
+    para juntarlo tenemos que hacer un merge commit 
+    **_Squash_** =>voy a tomar estos cambio y lo fusinare con el ultimo commit realizado 
+    **Create Merge pull request** =>   commit adicional que se hace una adicion, podemos borrar esta rama si no la necesitamos
   
