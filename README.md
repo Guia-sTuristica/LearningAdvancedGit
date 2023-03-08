@@ -323,4 +323,21 @@
     para juntarlo tenemos que hacer un merge commit 
     **_Squash_** =>voy a tomar estos cambio y lo fusinare con el ultimo commit realizado 
     **Create Merge pull request** =>   commit adicional que se hace una adicion, podemos borrar esta rama si no la necesitamos
+
+## **git fetch**
+    Actualizar la referencia en mi repsoitorio local del remoto ahora apunta al main
+    El head main estar apuntando a otro commit 
+    podemos hacer un git pull
+    En git hub podemo poner comentarios e
+
+## Fork, Clone y Colaboraciones
+    Repositorio publico no somo colaboradores podemos hacer git clone sin ningun problema, pero no podemos hacer push 
+    ¿Pero como queremos colaborar?
+    Entra el concepto de un Fork, tomar el respositorio original y tener acceso el respositorio, es como una rama adicional
+    puede ser unida ahi entra el pull request y asi podemos contribuir
+    Damos a click en fork y luego aparece nuestro perfil para asi poder clonarlo
+    copiamos el git y lo clonamos en nuestra carpeta que queramos
+    un git clone "repositorio" y vemos con un git log
+    y ya esta lo tenemos
+
   
