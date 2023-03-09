@@ -340,4 +340,28 @@
     un git clone "repositorio" y vemos con un git log
     y ya esta lo tenemos
 
+## **GIT PULL Request**
+    Una vez que tengamos el repositorio podemos modificar algun archivo y darle commit
+    una vez hecho vamos a darle un boton donde dice Contribute, aparece un boton "Open pull Request"
+    en git hub nos da informacion donde podemos realizar el pull request podemos darle un commentario
+    y creamos el pull request 
+    Ahora ya no podemos continuar por que el otro usuario tiene que aceptar o rechazar el pull
+    request
+    El administrador del repositor y puede comentar sobre estos cambio al que realizo el pull request
+    y puede tambien resolve esta conversacion si se le ha comentado
+    **_Squash an merger_** para aceptar los cambios en filechanged en este boton podemos ver los cambios
+    y en el boton reviewChanges podemos revertir los cambios endamos a request_change
+
+## Vemos todas las ramas
+    git branch -a
+    eliminamos ramas => primero estamos en el main o nuestra rama
+    git remote prune origin => revisa la ramas del remoto que no existe, y las limpia si la rama 
+    ya es unidad hay que borrarla
+    git branch => vemos de  manera local => git branch -d "rama"
+    REcuperar las ramas perdidas => 
+
+## Ramas de produccion
+
+
+
   
