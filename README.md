@@ -194,7 +194,6 @@
     git rebase main=> loq ue realizara que los commit que tnemos en la rama secundaria se posicionara en los ultimos
     sin perderse ningun cambio
     lugo podemos situarnos en la rama main realizamos un merge y nos dara un fast forward
-<<<<<<< HEAD
 
 ## REBASE REWORD
     Actualiza los nombres de los commits que queremaos entramos a al rebase interactivo y cogemos los ultimos
@@ -366,5 +365,3 @@
 
 
   
-=======
->>>>>>> rama-misisiones-completadas
