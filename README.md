@@ -365,9 +365,16 @@
 ## Milestone & ISSUES & COLABORADORES   
     Issues, Para comentar y comunicarse por el miembro de trabajo o realizar preguntas
     Para que reconozca github y responde r aun issues  por el commit 
-    es  => "Fixes "el numero del issues" #numero
-    Milestone, es un agrupador de issues
-    Issues, 
-
+    es  => "Fixes "el numero del issues" #numero y lo cierra el issues github
+    Issues Templates, Reportar bug, un feature,custom template, seguimiento en damos en el boton propose y creamos
+    luego al crear un issues nos da  la option el reportar bug que hemos definido , nos un template de codigo 
+    Tambien podemos crear un template personalizados en custom templates    
+    **Labels** => en issues, tenemos muchas etiquetas personalizables, para que sirve
+    Cramos un nuevo issues y en labels tomamos la etiqueta que queremos  y en nuestro issues tenemos la etiquetas
+    Añadir automaticamente un labels => antes de darle a propose editamos el template y asignamos un label y aquin se lo asiganmos
+    Milestone, es un agrupador de issues "https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues"
+    podemos poner la fecha para que se cumpla la fecha contenido 
+    Colaboradores => en managge access, agregamos la  el nombre de git que necesitamos para que colabore con nosotros el puede acceder atodos, podemos tambien eliminar el colaborador, si quiere que se nuevo dueño de este repositorio 
+    en configuraciones => tranferir repository poenemos el nuevo nombre  y el ombre del repositorio
 
   
