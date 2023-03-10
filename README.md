@@ -362,8 +362,10 @@
     git push origin:"rama" => eliminamos la rama de manera remota
     podemos crear una rama apartir de una version en github
 
-## Milestone & ISSUES & COLABORADORES
+## Milestone & ISSUES & COLABORADORES   
     Issues, Para comentar y comunicarse por el miembro de trabajo o realizar preguntas
+    Para que reconozca github y responde r aun issues  por el commit 
+    es  => "Fixes "el numero del issues" #numero
     Milestone, es un agrupador de issues
     Issues, 
 
