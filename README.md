@@ -358,10 +358,14 @@
     git remote prune origin => revisa la ramas del remoto que no existe, y las limpia si la rama 
     ya es unidad hay que borrarla
     git branch => vemos de  manera local => git branch -d "rama"
-    REcuperar las ramas perdidas => 
+    ACtualizar la rama de manera local tambien borrar la rama del respositorio
+    git push origin:"rama" => eliminamos la rama de manera remota
+    podemos crear una rama apartir de una version en github
 
-## Ramas de produccion
-
+## Milestone & ISSUES & COLABORADORES
+    Issues, Para comentar y comunicarse por el miembro de trabajo o realizar preguntas
+    Milestone, es un agrupador de issues
+    Issues, 
 
 
   
