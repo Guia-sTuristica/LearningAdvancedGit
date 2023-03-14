@@ -378,3 +378,9 @@
     en configuraciones => tranferir repository poenemos el nuevo nombre  y el ombre del repositorio
 
   
+## WiKi
+    Sirve Cuando necesiten que el proyecto un proceso de instalacion o documentacion oficial de nuestro repositorio
+    con stilos de mardow con los estilos que nos da github, tambien podemos crear paginas
+    con enlaces que nos lleva a esa pagina en el boton de enlace podemos especificar el texto y la pagina que se creo
+    anteriormente
+    Podemos realizar una navegacion con todos los enlaces que podemos en nuestro navegador
