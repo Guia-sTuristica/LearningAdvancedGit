@@ -384,3 +384,36 @@
     con enlaces que nos lleva a esa pagina en el boton de enlace podemos especificar el texto y la pagina que se creo
     anteriormente
     Podemos realizar una navegacion con todos los enlaces que podemos en nuestro navegador
+
+## Proyectos en GITHUB
+    Es un administrado de proyectos
+    hay dos formas de verlo board de forma tradicional tambien con jira de forma tradicional
+    tambien esta table 
+    tareas qeu tambien son issues, asignar persona para asiganr trabajo esta vez seleccionamos board
+    en tabla  o boarda podemos crear estas opciones
+        En title => podemos poner el nombre del proyecto, podemos hacer clic en el enlace y hacer un issues, seleccionamos
+        el proyecto para cual crear el issues, estan enlazado con un respositorio
+        assignees => a quien vamos asignar la tarea
+        status => el estado de la tarea, tambien se puede personalizar los estados en editar campos
+        en "+" => Podemos crear una nueva columna para poder tambien revisar los commit el pull request  con las columnas 
+        creadas
+    
+    En el projects podemos crear un link asignamos el project y va aparecer las opciones tambien tiene otros beneficios
+    como asignar issues o issues ya creados
+
+## GITHUB PAGES
+    Es un hosting gratuito de github=> tiene html, css, javascript
+    Hay para nuestro proyecto y tambhien para usuario
+    => esta es la ruta web por perfil de github=> https://robertfox11.github.io/ "aun no hay pagina"
+    Creamos un sitio web personaklizados =>
+    **Creacion de sitio web** => creamos un repositorio llamado => robertfox11.github.io
+    ahora vamos a settings buscamos la opcion pages, elegimos el sources
+    **Para tu proyecto**
+    Una carpeta especifica para desplegar github pages => creamos una rama web
+    el directorio se llama docs => es un nombr especial tiene archivo css, js, html 
+    mergeamos a la rama nueva
+    vamos settings => para que la carpeta sea un sitio web no hay que seleccionar un temaa podemos seleccionar la rama que queramos
+    nos va decir que folder neesitamos para desplegar en el web docs es utilziado para este tipo de despliegue
+
+## Insights
+    
