@@ -416,4 +416,37 @@
     nos va decir que folder neesitamos para desplegar en el web docs es utilziado para este tipo de despliegue
 
 ## Insights
+    Informacion estadisticas, trafico de red, ver cambios de rama, fork quienes a realizado, etc
+
+## Organizacion y Equipos
+    Es una forma agrupada de compartir el trabajo, puede ver el repositorio de distintos proyectos
+    En el boton de "+" a lado del perfil podemo crear organizacion 
+    En esta parte hay 3 opciones a elegir free, team, enterprise
+    creamos el nombre de la organizacion => esto crea un repositorio de un url en particular
+    completamos con un email valido, cuenta personal  o de negocio verificar cuenta
+    next
+    Ahora nos pide miembro a nuestra organizacion => una vez que esta añadido como miembro les envia un email
+
+## Transferencia el dominion de un repositorio a una organizacion
+    Tenemos que tener el nombre de la organizacion entramos en la organizacion 
+    podemos crear respositorio en nuestra organizacion, trambien crear proyectos
+    estos proyecto tiene alcance de manera global de los repositorio que tenemos 
+    **Ejemplo**
+    entramos en nuestro repositorio y vamos ajustes y vamos a transferir y elegimos la organizacion que queramos
+    si tenmos mas eligimos una y escribimos nuestro nombre de respositorio le damos aceptar
+    y nos aperece en nuestro repositor que tenemos en nuestra organizacion 
+    **Teams: Equipos de trabajo**
+    En la organizacion vamos a teams, podemos crear Equipo o diferente equipos
+    podemos ponerlo secreta o visible, si es secreta a los miembros de la organizacion nos lo va aparee
+    creamos un teams
+    los temas puede tener otros equipos que sepuede crear en teams
+    y tambien miembros en cada teams
+    en cada teams podemo añadir repositorios que haya agregado en la organizacion principal y pone por defecto solo lectura
+    **Repositorio y privelgios a nuestra organización**
+    Podemos cambiar los previlegios, hay un perfil admin podemos manejar issues requesta manejarlo y cerrarlo y 
+    poner la opcion de mantenimineto
+    **Autenticaciones de los miembros**
+    los miembros podemos poner el usuario public y se puede desde a fuera que este usuario 
+    pertenece a esta organizacio, podemos quitarlo pouede ser colaborador externo
+    
     
